@@ -1,0 +1,5 @@
+name,math_score,english_score,science_score
+Ali,80,70,85
+Sara,90,88,92
+Mona,75,80,70
+Omar,60,65,72
